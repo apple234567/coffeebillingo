@@ -65,7 +65,7 @@ namespace ConsoleApplication
 
                 if (isReseller)
                 {
-                    discount = totalCost * 0.20;
+                    discount = totalCost * 0.25;
                 }
 
                 // Print Bill
